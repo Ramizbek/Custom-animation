@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825480978017",
+    "firebase_url": "https://musobaqa-eb544-default-rtdb.firebaseio.com",
+    "project_id": "musobaqa-eb544",
+    "storage_bucket": "musobaqa-eb544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825480978017:android:a31899a4e1fb379553d420",
+        "android_client_info": {
+          "package_name": "ramizbek.aliyev.musobaqajuly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825480978017-isb2v0p6q7bec73husve98ipb5h5ckhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJ7gtIa1AuzXlQ-dmdAbb7yefD81yJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825480978017-isb2v0p6q7bec73husve98ipb5h5ckhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
